@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Animatically/anima-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Animatically/anima-backend.git
